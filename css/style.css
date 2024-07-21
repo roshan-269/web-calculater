@@ -1,0 +1,19 @@
+body{
+	margin: 0px;
+	padding: 0px;
+	text-align: center;
+}
+h1{
+	font-size: 65px;
+}
+input{
+	width: 80px;
+	height: 75px;
+	font-size: 50px;
+	margin: 5px;
+	border-radius: 9px;
+}
+.btn:hover{
+	background-color: #575757;
+	cursor: pointer;
+}
